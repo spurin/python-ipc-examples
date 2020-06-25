@@ -1,0 +1,9 @@
+# process_to_process-with-rpc.py
+future==0.18.2
+gevent==20.6.2
+greenlet==0.4.16
+msgpack==1.0.0
+pyzmq==19.0.1
+zerorpc==0.6.3
+zope.event==4.4
+zope.interface==5.1.0
