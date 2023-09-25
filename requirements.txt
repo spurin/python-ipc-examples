@@ -1,6 +1,6 @@
 # process_to_process-with-rpc.py
 future==0.18.2
-gevent==20.6.2
+gevent==23.9.1
 greenlet==0.4.16
 msgpack==1.0.0
 pyzmq==19.0.1
